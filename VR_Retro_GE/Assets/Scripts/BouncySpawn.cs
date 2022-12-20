@@ -4,17 +4,53 @@ using UnityEngine;
 
 public class BouncySpawn : MonoBehaviour
 {
-    public GameObject prefabToSpawn; // the prefab that you want to spawn
-    public int numberToSpawn; // the number of prefabs to spawn
-    public GameObject spawnLocation; // the GameObject that determines the location where the prefabs should be spawned
+    // Drag in the prefab that you want to spawn in the Inspector
+    public GameObject prefabToSpawn;
+
+    // Set the number of prefabs to spawn in the Inspector
+    public int numberToSpawn = 10;
+
+    // Drag in the game object that will be used as the spawn location in the Inspector
+    public GameObject spawnLocationObject;
+
+    // Drag in the game object that will be used as the button to trigger the spawning in the Inspector
+    public GameObject spawnButton;
 
     void Start()
     {
-        // use a loop to spawn the specified number of prefabs
+        // Add a collider to the button game object so that it can be clicked
+        spawnButton.AddComponent<BoxCollider>();
+
+        Vector3 spawnLocation = spawnLocationObject.transform.position;
+
         for (int i = 0; i < numberToSpawn; i++)
         {
-            // instantiate the prefab at the position of the spawnLocation GameObject
-            Instantiate(prefabToSpawn, spawnLocation.transform.position, Quaternion.identity);
+            Instantiate(prefabToSpawn, spawnLocation, Quaternion.identity);
+        }
+    }
+
+    void Update()
+    {
+        // Check if the button game object is being clicked
+        if (Input.GetMouseButtonDown(0))
+        {
+            RaycastHit hit;
+            Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
+
+            if (Physics.Raycast(ray, out hit))
+            {
+                if (hit.collider.gameObject == spawnButton)
+                {
+                    // Get the spawn location from the spawn location game object
+                    Vector3 spawnLocation = spawnLocationObject.transform.position;
+
+                    // Spawn the specified number of prefabs
+                    for (int i = 0; i < numberToSpawn; i++)
+                    {
+                        Instantiate(prefabToSpawn, spawnLocation, Quaternion.identity);
+                    }
+                }
+            }
         }
     }
 }
