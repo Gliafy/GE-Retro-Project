@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 26
+  controlID: 18
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -226,7 +226,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 27
+  controlID: 111
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -251,7 +251,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 28
+  controlID: 112
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -410,22 +410,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Materials
+    - Assets/Models
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Materials
+  - Assets/Models
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\aacha\Documents\GitHub\GE-Retro-Project\VR_Retro_GE
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: ea420000
-    m_LastClickedID: 17130
-    m_ExpandedIDs: 00000000dc420000de42000000ca9a3b
+    m_SelectedIDs: d6400000
+    m_LastClickedID: 16598
+    m_ExpandedIDs: 00000000ba40000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -453,7 +453,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000dc420000de420000
+    m_ExpandedIDs: 00000000ba400000bc400000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -576,9 +576,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 78f8ffff
+      m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 4af9ffff2efaffff
+      m_ExpandedIDs: dce2ffff20faffff4efaffff50fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -639,9 +639,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -7.8822417, y: 1.6942431, z: -10.973346}
+    m_Target: {x: -11.188351, y: 4.3396506, z: 2.1814349}
     speed: 2
-    m_Value: {x: -7.8822417, y: 1.6942431, z: -10.973346}
+    m_Value: {x: -11.188351, y: 4.3396506, z: 2.1814349}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -688,13 +688,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.08389676, y: 0.049305104, z: -0.0041530975, w: -0.9952418}
+    m_Target: {x: 0.065013446, y: 0.82016987, z: -0.09515375, w: 0.560383}
     speed: 2
-    m_Value: {x: -0.08389072, y: 0.05079808, z: -0.0042789523, w: -0.9951702}
+    m_Value: {x: 0.064871006, y: 0.82101417, z: -0.0952517, w: 0.5591553}
   m_Size:
-    m_Target: 5.433975
+    m_Target: 12.983017
     speed: 2
-    m_Value: 5.133975
+    m_Value: 12.983017
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -740,10 +740,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 357
+    x: 351
     y: 73
-    width: 1146
-    height: 654
+    width: 1654
+    height: 901
   m_ViewDataDictionary: {fileID: 0}
   m_SerializedViewNames: []
   m_SerializedViewValues: []
@@ -778,7 +778,7 @@ MonoBehaviour:
     m_HSlider: 0
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 0
+    m_EnableMouseInput: 1
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1
@@ -786,24 +786,24 @@ MonoBehaviour:
     m_DrawArea:
       serializedVersion: 2
       x: 0
-      y: 0
-      width: 1146
-      height: 654
-    m_Scale: {x: 0.44765624, y: 0.44765624}
-    m_Translation: {x: 573, y: 327}
+      y: 21
+      width: 1654
+      height: 880
+    m_Scale: {x: 0.6111111, y: 0.6111111}
+    m_Translation: {x: 827, y: 440}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -1280
-      y: -730.4712
-      width: 2560
-      height: 1460.9424
+      x: -1353.2727
+      y: -720
+      width: 2706.5454
+      height: 1440
     m_MinimalGUI: 1
-  m_defaultScale: 0.44765624
-  m_LastWindowPixelSize: {x: 1146, y: 654}
+  m_defaultScale: 0.6111111
+  m_LastWindowPixelSize: {x: 1654, y: 901}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000100000100
