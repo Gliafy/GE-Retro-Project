@@ -245,13 +245,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 382456508}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ac2cbcfc938d6cf49a3ef6874a3126a5, type: 3}
+  m_Script: {fileID: 11500000, guid: a39af06aa5ee0bf4aa4c2810298a8867, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  xSpeed: 50
-  ySpeed: 35
-  zSpeed: 25
-  colorTimer: 0
 --- !u!135 &382456511
 SphereCollider:
   m_ObjectHideFlags: 0
