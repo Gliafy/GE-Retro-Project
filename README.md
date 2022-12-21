@@ -8,7 +8,8 @@ Student Names and Student Numbers:
 - Ming Hei Chan: C20342893
 
 # Description of the Project
-### An alien in a blender inside a kitchen setting you can interact with surrounded by other interactable objects such as:
+## An alien in a blender inside a kitchen setting you can interact with:
+### Other Interactables
 - Interactable Alien Belly Dancing
 - Ferris Wheel
 - Bouncy Ball Container
@@ -26,3 +27,4 @@ Student Names and Student Numbers:
 - Everything is our own assets including the music
 
 # What We Are Most Proud Of
+We are mostly proud of the groovy and random environment we achieved with the kitchen setting. We are also proud of how we can interact with more than one thing (see interactables).
