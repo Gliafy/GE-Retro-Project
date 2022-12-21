@@ -1,4 +1,4 @@
-#GE-Retro-Project
+# GE-Retro-Project
 
 Class Group: DT508 (TU984 - Game Design)
 Student Names and Student Numbers:
