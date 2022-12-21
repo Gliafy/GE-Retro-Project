@@ -7,6 +7,8 @@ Student Names and Student Numbers:
 - Edvinas Seporaitis: C20467536
 - Ming Hei Chan: C20342893
 
+# Video Link
+
 # Description of the Project
 ## An alien in a blender inside a kitchen setting you can interact with:
 ### Other Interactables
