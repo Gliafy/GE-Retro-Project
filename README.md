@@ -39,7 +39,6 @@ https://www.youtube.com/watch?v=ZkrQnQmDK-M
 2) We are also proud of how we created multiple interactable assets.
 
 # What We Learned
-1) How to make the scene work with a VR Headset.
-2) How to iterate HSV base colors on the disco ball and floodlights.
-3) How to implement different features and combine them to create a vibe.
-4) How to be creative with combining different features.
+1) How to iterate HSV base colors on the disco ball and floodlights.
+2) How to implement different features and combine them to create a vibe.
+3) How to be creative with combining different features.
