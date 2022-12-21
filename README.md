@@ -8,11 +8,11 @@ Student Names and Student Numbers:
 - Ming Hei Chan: C20342893
 
 # Description of the Project
-An alien in a blender inside a kitchen setting you can interact with surrounded by other interactable objects such as:
+### An alien in a blender inside a kitchen setting you can interact with surrounded by other interactable objects such as:
 - Interactable Alien Belly Dancing
 - Ferris Wheel
 - Bouncy Ball Container
 
-Other Items:
+### Other Items:
 - Disco Ball
 - Flood Light
