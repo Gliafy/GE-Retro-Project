@@ -3,9 +3,9 @@
 Class Group: DT508 (TU984 - Game Design)
 
 Student Names and Student Numbers:
-- Mark Benabese: C20710145
 - Edvinas Seporaitis: C20467536
 - Ming Hei Chan: C20342893
+- Mark Benabese: C20710145
 
 # Video Link
 
@@ -16,6 +16,8 @@ Student Names and Student Numbers:
 - Ferris Wheel
 - Bouncy Ball Container
 - Jukebox
+- Blood
+- Ragdolls
 
 ### Other Items:
 - Disco Ball
