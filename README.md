@@ -24,8 +24,9 @@ https://www.youtube.com/watch?v=ZkrQnQmDK-M
 - Ferris Wheel
 
 # How It Works
-1) Use VR headset
-2) Interact with assets by picking them up and pressing buttons
+| Use VR headset | Use PC controls |
+|----------------|-----------------|
+| Move around using the VR controllers | Move around using WASD and look around using the mouse |
 
 # References
 - Skybox Image: https://i.stack.imgur.com/TuStI.png
