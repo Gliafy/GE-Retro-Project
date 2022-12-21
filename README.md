@@ -3,9 +3,9 @@
 Class Group: DT508 (TU984 - Game Design)
 
 Student Names and Student Numbers:
-- Mark Benabese: C20710145
 - Edvinas Seporaitis: C20467536
 - Ming Hei Chan: C20342893
+- Mark Benabese: C20710145
 
 # Video Link
 
@@ -16,6 +16,8 @@ Student Names and Student Numbers:
 - Ferris Wheel
 - Bouncy Ball Container
 - Jukebox
+- Blood
+- Ragdolls
 
 ### Other Items:
 - Disco Ball
@@ -31,7 +33,7 @@ Student Names and Student Numbers:
 
 # What We Are Most Proud Of
 1) We are mostly proud of the groovy and random environment we achieved with the kitchen setting. 
-2) We are also proud of how we can interact with more than one thing (see interactables).
+2) We are also proud of how we created multiple interactable assets.
 
 # What We Learned
 1) How to make the scene work with a VR Headset.
