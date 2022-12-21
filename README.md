@@ -12,7 +12,17 @@ Student Names and Student Numbers:
 - Interactable Alien Belly Dancing
 - Ferris Wheel
 - Bouncy Ball Container
+- Jukebox
 
 ### Other Items:
 - Disco Ball
 - Flood Light
+
+# How It Works
+1) Use VR headset
+2) Interact with assets by picking them up
+
+# References
+- Everything is our own assets including the music
+
+# What We Are Most Proud Of
