@@ -27,7 +27,7 @@ Student Names and Student Numbers:
 
 # References
 - Skybox Image: https://i.stack.imgur.com/TuStI.png
-- Everything is our own assets including the music
+- Everything else is our own assets including the music
 
 # What We Are Most Proud Of
 1) We are mostly proud of the groovy and random environment we achieved with the kitchen setting. 
