@@ -8,28 +8,30 @@ Student Names and Student Numbers:
 - Mark Benabese: C20710145
 
 # Video Link
+https://www.youtube.com/watch?v=ZkrQnQmDK-M
 
 # Description of the Project
-### An alien in a blender inside a kitchen setting you can interact with:
-### Other Interactables:
+### A kitchen setting filled with interactables:
+### Interactables:
 - Interactable Alien Belly Dancing
-- Ferris Wheel
-- Bouncy Ball Container
-- Jukebox
-- Blood
-- Ragdolls
+- Container that spawns bouncy balls
+- Jukebox that changes music
+- Ragdolls you can spawn and throw around and put in a blender
 
 ### Other Items:
 - Disco Ball
 - Flood Light
+- Ferris Wheel
 
 # How It Works
 1) Use VR headset
-2) Interact with assets by picking them up
+2) Interact with assets by picking them up and pressing buttons
 
 # References
 - Skybox Image: https://i.stack.imgur.com/TuStI.png
-- Everything else is our own assets including the music
+- Music #1: https://www.youtube.com/watch?v=QH2-TGUlwu4
+- Music #2: https://www.youtube.com/watch?v=leCVVw6iD84
+- Everything else is our own assets including the background music
 
 # What We Are Most Proud Of
 1) We are mostly proud of the groovy and random environment we achieved with the kitchen setting. 
